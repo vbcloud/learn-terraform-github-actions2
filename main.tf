@@ -18,7 +18,7 @@ terraform {
     organization = "workhard"
 
     workspaces {
-      name = "learn-github-actions2"
+      name = "learn-terraform-github-actions2"
     }
   }
 }
